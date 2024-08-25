@@ -1,10 +1,9 @@
-```markdown
 # Gamified Learning Platform
-![alt text](image-1.png)
+![Platform Screenshot](image-1.png)
 
 ## Vision
 
-The Gamified Learning Platform aims to revolutionize the educational experience by integrating blockchain technology to provide a rewarding system that incentivizes users. By using smart contracts to issue and manage custom tokens and NFTs, this platform creates a more engaging, transparent, and rewarding learning journey. Users are motivated to complete learning milestones, while gaining valuable digital assets that reflect their achievements.
+The Gamified Learning Platform aims to revolutionize the educational experience by integrating blockchain technology to provide a rewarding system that incentivizes users. By using smart contracts to issue and manage custom tokens and NFTs, this platform creates a more engaging, transparent, and rewarding learning journey. Users are motivated to complete learning milestones while gaining valuable digital assets that reflect their achievements.
 
 ## Project Features
 
@@ -21,6 +20,7 @@ The Gamified Learning Platform aims to revolutionize the educational experience 
 5. **Governance:** Introduce decentralized governance mechanisms allowing token holders to participate in decision-making processes related to platform updates and policies.
 
 ## Project Structure
+
 ```bash
 /gamified-learning-platform
 ├── contracts
@@ -61,15 +61,13 @@ The Gamified Learning Platform aims to revolutionize the educational experience 
 └── .gitignore
 ```
 
-
-
 ## Development Details
 
 ### Prerequisites
 
-- **Node.js and NPM**: Ensure Node.js and NPM are installed to manage dependencies and run scripts.
-- **Truffle or Hardhat**: Ethereum development frameworks used for compiling, testing, and deploying smart contracts.
-- **Metamask**: A browser extension wallet for interacting with the Ethereum network.
+- **Node.js and NPM:** Ensure Node.js and NPM are installed to manage dependencies and run scripts.
+- **Truffle or Hardhat:** Ethereum development frameworks used for compiling, testing, and deploying smart contracts.
+- **Metamask:** A browser extension wallet for interacting with the Ethereum network.
 
 ### Installation and Setup
 
@@ -108,17 +106,15 @@ Develop a web application to interact with these contracts, enabling users to co
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss improvements, report bugs, or suggest new features.
 
----
-
 ## Developer Details
 
 - **Name:** Abhiraj Kuntal
-- **Contact:** abhirajkuntal0807@gmail.com
+- **Contact:** [abhirajkuntal0807@gmail.com](mailto:abhirajkuntal0807@gmail.com)
 
-## Deployment 
+## Deployment
+
 - **Chain Name:** Educhain Open Campus
-- **Contract Id:** 0x6f458129298334ab3e8c320ff0d16c03b56a6fe2
+- **Contract ID:** 0x6f458129298334ab3e8c320ff0d16c03b56a6fe2
 
-![alt text](image.png)
-
+![Deployment Screenshot](image.png)
 ```
